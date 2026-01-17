@@ -24,4 +24,9 @@ Please select your language to read our privacy policy:
 
 ---
 
+### ¿Necesitas ayuda? / Need help?
+* 📬 **[Contacto y Soporte / Contact & Support](contact.md)**
+
+---
+
 <small>© 2026 TriggerTime. Todos los derechos reservados.</small>
