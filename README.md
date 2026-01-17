@@ -1,1 +1,0 @@
-# triggertime-legal
