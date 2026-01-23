@@ -11,6 +11,7 @@ title: Inicio
 * 🎯 **Registro detallado:** Guarda tus puntuaciones, munición y notas técnicas.
 * 🔒 **100% Privada:** No requiere creación de cuentas.
 * 📱 **Offline:** Tus datos nunca salen de tu dispositivo.
+* 🌍 Multilingüe: Disponible en inglés, español, catalán, gallego y euskera.
 
 ---
 
